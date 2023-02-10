@@ -9,7 +9,12 @@ def findReplace(directory, find, replace, filePattern):
             with open(filepath, "w") as f:
                 f.write(s)
 
-findReplace("", "\t2", "\t0", "asr_logger*")
-findReplace("", "\t3", "\t1", "asr_logger*")
-findReplace("", "\n2", "\n0", "asr_logger*")
-findReplace("", "\n3", "\n1", "asr_logger*")
+
+def main():
+    findReplace("", "\t2", "\t0", "asr_logger*")
+    findReplace("", "\t3", "\t1", "asr_logger*")
+    findReplace("", "\n2", "\n0", "asr_logger*")
+    findReplace("", "\n3", "\n1", "asr_logger*")
+
+if __name__ == "__main__":
+    main()

@@ -212,6 +212,14 @@ asr_blocks_multitaxa <- function(taxa, names, links, logevery, outfile="loggers.
     }
 }
 
+## Collapses the raw covarion states to 0 or 1 for presence / absence.
+## Uses external Python script `collapse_covarion.py`. Processes all files in
+## current working directory with the prefix "asr_logger"
+library(reticulate)
+collapse_covarion <- function() {
+    py_run_file("collapse_covarion.py")
+}
+
 
 # calculates synonymy at ancestral state reconstruction node
 # input is the logger output by the beast analysis after it has had collapse_covarion.py run on it
