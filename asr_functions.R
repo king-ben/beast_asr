@@ -191,7 +191,29 @@ asr_blocks <- function(parts, names=NULL, links, id="AncestralSequenceLogger", l
   return(logger)
 }
 
-#calculates synonymy at ancestral state reconstruction node
+
+## Make the logger XML blocks for multiple taxon sets with unique names for the ID and output
+## files and write everything to a single XML file that can be copied and pasted into the
+## BEAST XML
+asr_blocks_multitaxa <- function(taxa, names, links, logevery, outfile="loggers.xml") {
+    for (taxon in taxa) {
+        xml_origin <- asr_blocks(wp, names=names, links,
+                                 id=paste("AncestralSequenceLoggerOrigin", taxon, sep=""),
+                                 logevery=logevery, taxonset=taxon, logOrigin=T,
+                                 fileName=paste("asr_logger_", taxon, "_parent.txt", sep=""))
+        xml_mrca <- asr_blocks(wp, names=wn, links,
+                               id=paste("AncestralSequenceLoggerMRCA", taxon, sep=""),
+                               logevery=logevery, taxonset=taxon, logOrigin=F,
+                               fileName=paste("asr_logger_", taxon, ".txt", sep=""))
+        origin_str <- toString.XMLNode(xml_origin)
+        mrca_str <- toString.XMLNode(xml_mrca)
+        write(paste(origin_str, "\n"), file=logger_xml_file, append=TRUE)
+        write(paste(mrca_str, "\n"), file=logger_xml_file, append=TRUE)
+    }
+}
+
+
+# calculates synonymy at ancestral state reconstruction node
 # input is the logger output by the beast analysis after it has had collapse_covarion.py run on it
 # asr logger is read in with fread
 asr_synonymy <- function(asr, wp, burnin=0.1, thinfactor=10){
