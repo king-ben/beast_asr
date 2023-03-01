@@ -207,8 +207,8 @@ asr_blocks_multitaxa <- function(taxa, names, links, logevery, outfile="loggers.
                                fileName=paste("asr_logger_", taxon, ".txt", sep=""))
         origin_str <- toString.XMLNode(xml_origin)
         mrca_str <- toString.XMLNode(xml_mrca)
-        write(paste(origin_str, "\n"), file=logger_xml_file, append=TRUE)
-        write(paste(mrca_str, "\n"), file=logger_xml_file, append=TRUE)
+        write(paste(origin_str, "\n"), file=outfile, append=TRUE)
+        write(paste(mrca_str, "\n"), file=outfile, append=TRUE)
     }
 }
 
