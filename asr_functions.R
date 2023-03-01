@@ -288,3 +288,65 @@ get_innovations_terminal <- function(taxon_data, asr_parent, burnin=0.1, sigleve
   return(sig)
 }
 
+
+# make monophyly constraint from vector of taxon names
+constraint_XML <- function(name, taxonset){
+  dist <- newXMLNode(
+    "distribution", 
+    attrs=c(id=paste0(name, ".prior"),
+            spec="beast.base.evolution.tree.MRCAPrior",
+            monophyletic="true",
+            tree="@Tree.t:tree"))
+  taxset <- newXMLNode(
+    "taxonset",
+    parent=dist,
+    attrs=c(id=name, 
+            spec="TaxonSet")
+  )
+  for(i in taxonset){
+    newXMLNode(
+      parent=taxset,
+      "taxon",
+      attrs=c(idref=i)
+    )
+  }
+  return(dist)
+}
+
+# make monophyly constraint with rogue taxa from vector of included taxa and vector of rogues
+rogueconstraint_XML <- function(name, taxonset, rogues){
+  dist <- newXMLNode(
+    "distribution", 
+    attrs=c(id=paste0(name, ".prior"),
+            spec="beastlabs.math.distributions.MRCAPriorWithRogues",
+            monophyletic="true",
+            tree="@Tree.t:tree"))
+  taxset <- newXMLNode(
+    "taxonset",
+    parent=dist,
+    attrs=c(id=name, 
+            spec="TaxonSet")
+  )
+  for(i in taxonset){
+    newXMLNode(
+      parent=taxset,
+      "taxon",
+      attrs=c(idref=i)
+    )
+  }
+  roguesxml <- newXMLNode(
+    "rogues",
+    parent=dist,
+    attrs=c(id=paste0(name, ".rogues"), 
+            spec="TaxonSet")
+  )
+  for(i in rogues){
+    newXMLNode(
+      parent=roguesxml,
+      "taxon",
+      attrs=c(idref=i)
+    )
+  }
+  return(dist)
+}
+
