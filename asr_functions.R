@@ -8,7 +8,7 @@ find_partitions <- function(file){
   from <- grep("begin assumptions", nex, ignore.case=T)+1
   from <- from[grep("charset", nex[from])]
   if(length(from)==0){stop("assumptions block with character sets not found")}
-  to <- which(nex=="end;")
+  to <- grep("end;", nex, ignore.case = TRUE)
   to <- to[to>from][1]-1
   cb <- nex[from:to]
   cb <- gsub(".*charset ", "", cb)
