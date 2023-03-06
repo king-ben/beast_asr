@@ -39,7 +39,7 @@ find_site_names <- function(file){
   }else{
     from <- grep("charstatelabels", nex, ignore.case=T)+1
     if(length(from)==0){stop("characterstatelabels block not found")}
-    to <- which(nex==";")
+    to <- grep("^\\s*;\\s*$", nex)
     to <- to[to>from][1]-1
     cb <- nex[from:to]
     cb <- gsub("    ", "", cb)
