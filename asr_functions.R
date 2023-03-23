@@ -191,6 +191,34 @@ asr_blocks <- function(parts, names=NULL, links, id="AncestralSequenceLogger", l
   return(logger)
 }
 
+# makes innovation reconstruction logger
+innovation_blocks <- function(parts, names=NULL, links, id="InnovationLogger", logevery=1000, taxonset, model=NULL, fromstates=NULL, tostates=NULL, fileName="asr_logger.txt", clockname="@RelaxedClock.c:clock"){
+  logger <- newXMLNode("logger")
+  xmlAttrs(logger) <- c(id=id, fileName=fileName, logEvery=logevery, mode="tree")
+  for(i in 1:nrow(parts)){
+    log <- newXMLNode("log", parent=logger)
+    pnam <- parts[i,1]
+    link <- links[which(links[,1]==pnam),2]
+    first <- parts[i, 2]
+    last <- parts[i, 3]
+    if(is.null(names)){
+      xmlAttrs(log) <- c(value=paste(paste0(pnam, ".ascertainment"), paste0(pnam, ".", 1:(last-first), collapse=" ")))
+    } else{
+      cnam <- names[first:last]
+      xmlAttrs(log) <- c(id=paste(id, pnam, sep="."), spec="innovations.evolution.likelihood.InnovationLogger", data=paste("@orgdata", pnam, sep="."), siteModel=paste("@SiteModel.s:", link, sep=""), branchRateModel=clockname, tree="@Tree.t:tree", value=paste(cnam, collapse=" "), taxonset=paste("@", taxonset, sep=""))
+    }
+    if(is.null(model)){
+      xmlAttrs(log) <- c(xmlAttrs(log), fromStates=fromstates, toStates=tostates)
+    }
+    if(model=="covarion"){
+      xmlAttrs(log) <- c(xmlAttrs(log), fromStates="0 2", toStates="1 3")
+    }
+    if(model=="standard"){
+      xmlAttrs(log) <- c(xmlAttrs(log), fromStates="0", toStates="1")
+    }
+  }
+  return(logger)
+}
 
 ## Make the logger XML blocks for multiple taxon sets with unique names for the ID and output
 ## files and write everything to a single XML file that can be copied and pasted into the
