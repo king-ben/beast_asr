@@ -192,7 +192,7 @@ asr_blocks <- function(parts, names=NULL, links, id="AncestralSequenceLogger", l
 }
 
 # makes innovation reconstruction logger
-innovation_blocks <- function(parts, names=NULL, links, id="InnovationLogger", logevery=1000, taxonset, model=NULL, fromstates=NULL, tostates=NULL, fileName="asr_logger.txt", clockname="@RelaxedClock.c:clock"){
+innovation_blocks <- function(parts, names=NULL, links, id="InnovationLogger", logevery=1000, taxonset, model=NULL, fromstates=NULL, tostates=NULL, fileName="innovation_logger.txt", clockname="@RelaxedClock.c:clock"){
   logger <- newXMLNode("logger")
   xmlAttrs(logger) <- c(id=id, fileName=fileName, logEvery=logevery, mode="tree")
   for(i in 1:nrow(parts)){
@@ -269,6 +269,7 @@ asr_synonymy <- function(asr, wp, burnin=0.1, thinfactor=10){
 }
 
 #find changes on a branch. Takes asr from the nodes at either end of the branch
+# THIS IS SUPERSEDED. USE INNOVATIONS_BLOCKS TO LOG INNOVATIONS DIRECTLY INSTEAD
 get_innovations <- function(asr_mrca, asr_parent, burnin=0.1, siglevel=0.5, mode="innovations"){
   b <- round(burnin*nrow(asr_mrca))
   n <- nrow(asr_mrca)
