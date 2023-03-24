@@ -28,6 +28,9 @@ Takes output of two analyses with the xml code produced by siteprobs_blocks. Wil
 ### `asr_blocks`
 Makes an xml block for performing ancestral state reconstruction of every cognate set at a given node can either be at the most recent common ancestor node or its parent. Doing both allows for the reconstruction of innovations.
 
+### `innovation_blocks`
+Makes an xml block for logging innovations of every cognate set on the branch leading to a given node. Makes use of a custom java class InnovationLogger in the [innovations](https://github.com/king-ben/innovations) beast2 addon package.
+
 ### `asr_blocks_multitaxa`
 Given a list of multiple taxon sets present in the BEAST2 XML, creates uniquely named MRCA and origin ancestral state loggers for each set, set to write to uniquely named log files, and saves them all to a single XML file (default: "loggers.xml") which can then be pasted into the logger section of the BEAST2 XML. Logfiles will be named "asr_logger_[taxonset].txt" and "asr_logger_[taxonset]_parent.txt"
 
