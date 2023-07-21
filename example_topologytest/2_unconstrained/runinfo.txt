@@ -1,0 +1,2114 @@
+
+                        BEAST v2.7.3, 2002-2022
+             Bayesian Evolutionary Analysis Sampling Trees
+                       Designed and developed by
+ Remco Bouckaert, Alexei J. Drummond, Andrew Rambaut & Marc A. Suchard
+                                    
+                   Centre for Computational Evolution
+                         University of Auckland
+                       r.bouckaert@auckland.ac.nz
+                        alexei@cs.auckland.ac.nz
+                                    
+                   Institute of Evolutionary Biology
+                        University of Edinburgh
+                           a.rambaut@ed.ac.uk
+                                    
+                    David Geffen School of Medicine
+                 University of California, Los Angeles
+                           msuchard@ucla.edu
+                                    
+                      Downloads, Help & Resources:
+                           http://beast2.org/
+                                    
+  Source code distributed under the GNU Lesser General Public License:
+                   http://github.com/CompEvol/beast2
+                                    
+                           BEAST developers:
+   Alex Alekseyenko, Trevor Bedford, Erik Bloomquist, Joseph Heled, 
+ Sebastian Hoehna, Denise Kuehnert, Philippe Lemey, Wai Lok Sibon Li, 
+Gerton Lunter, Sidney Markowitz, Vladimir Minin, Michael Defoin Platel, 
+          Oliver Pybus, Tim Vaughan, Chieh-Hsi Wu, Walter Xie
+                                    
+                               Thanks to:
+          Roald Forsberg, Beth Shapiro and Korbinian Strimmer
+
+Random number seed: 1689949393106
+
+Alignment(Malekula)
+  44 taxa
+  2205 sites
+  1932 patterns
+
+Filter 356-357
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+Starting frequencies: [0.5, 0.5]
+  UCRelaxedClockModel: using real rates for rate distribution across branches.
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 404-405
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 684-685
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 796-797
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1127-1128
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1149-1150
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1151-1152
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1348-1349
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1407-1408
+44 taxa
+2 sites
+2 patterns
+Filter -
+44 taxa
+2 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 58-60
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 127-129
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 140-142
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 416-418
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 446-448
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 506-508
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 645-647
+44 taxa
+3 sites
+2 patterns
+Filter -
+44 taxa
+3 sites
+2 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1261-1263
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1944-1946
+44 taxa
+3 sites
+3 patterns
+Filter -
+44 taxa
+3 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 680-683
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 719-722
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 915-918
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 985-988
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 997-1000
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1167-1170
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1283-1286
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1355-1358
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1974-1977
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1978-1981
+44 taxa
+4 sites
+4 patterns
+Filter -
+44 taxa
+4 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 161-165
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 324-328
+44 taxa
+5 sites
+4 patterns
+Filter -
+44 taxa
+5 sites
+4 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 329-333
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 383-387
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 574-578
+44 taxa
+5 sites
+3 patterns
+Filter -
+44 taxa
+5 sites
+3 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 763-767
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1023-1027
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1144-1148
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1196-1200
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1222-1226
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1332-1336
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1350-1354
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1426-1430
+44 taxa
+5 sites
+5 patterns
+Filter -
+44 taxa
+5 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 449-454
+44 taxa
+6 sites
+6 patterns
+Filter -
+44 taxa
+6 sites
+6 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 500-505
+44 taxa
+6 sites
+6 patterns
+Filter -
+44 taxa
+6 sites
+6 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1088-1093
+44 taxa
+6 sites
+6 patterns
+Filter -
+44 taxa
+6 sites
+6 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1665-1670
+44 taxa
+6 sites
+5 patterns
+Filter -
+44 taxa
+6 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1858-1863
+44 taxa
+6 sites
+5 patterns
+Filter -
+44 taxa
+6 sites
+5 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1896-1901
+44 taxa
+6 sites
+6 patterns
+Filter -
+44 taxa
+6 sites
+6 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 74-80
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 476-482
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 517-523
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 723-729
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1215-1221
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1254-1260
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1409-1415
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1489-1495
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1631-1637
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1995-2001
+44 taxa
+7 sites
+6 patterns
+Filter -
+44 taxa
+7 sites
+6 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2047-2053
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2199-2205
+44 taxa
+7 sites
+7 patterns
+Filter -
+44 taxa
+7 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 153-160
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 388-395
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 396-403
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 492-499
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 509-516
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 637-644
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 746-753
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 823-830
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 958-965
+44 taxa
+8 sites
+7 patterns
+Filter -
+44 taxa
+8 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 966-973
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 989-996
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1431-1438
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1638-1645
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1671-1678
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1864-1871
+44 taxa
+8 sites
+7 patterns
+Filter -
+44 taxa
+8 sites
+7 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2182-2189
+44 taxa
+8 sites
+8 patterns
+Filter -
+44 taxa
+8 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 241-249
+44 taxa
+9 sites
+8 patterns
+Filter -
+44 taxa
+9 sites
+8 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 483-491
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 648-656
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 657-665
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 754-762
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 919-927
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 928-936
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 949-957
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1387-1395
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1464-1472
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1743-1751
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1775-1783
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2107-2115
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2190-2198
+44 taxa
+9 sites
+9 patterns
+Filter -
+44 taxa
+9 sites
+9 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 130-139
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 143-152
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 406-415
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 466-475
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 813-822
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 831-840
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 892-901
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1117-1126
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1416-1425
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1454-1463
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1590-1599
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1752-1761
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1799-1808
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1872-1881
+44 taxa
+10 sites
+10 patterns
+Filter -
+44 taxa
+10 sites
+10 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 277-287
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 288-298
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 334-344
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 345-355
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 455-465
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 606-616
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 841-851
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 974-984
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1001-1011
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1012-1022
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1337-1347
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1396-1406
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1496-1506
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1732-1742
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1835-1845
+44 taxa
+11 sites
+11 patterns
+Filter -
+44 taxa
+11 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 201-212
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 265-276
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 937-948
+44 taxa
+12 sites
+11 patterns
+Filter -
+44 taxa
+12 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1028-1039
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1600-1611
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1809-1820
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1846-1857
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2002-2013
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2014-2025
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2116-2127
+44 taxa
+12 sites
+12 patterns
+Filter -
+44 taxa
+12 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 61-73
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 114-126
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 188-200
+44 taxa
+13 sites
+12 patterns
+Filter -
+44 taxa
+13 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 419-431
+44 taxa
+13 sites
+12 patterns
+Filter -
+44 taxa
+13 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 579-591
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 686-698
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 902-914
+44 taxa
+13 sites
+11 patterns
+Filter -
+44 taxa
+13 sites
+11 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1059-1071
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1762-1774
+44 taxa
+13 sites
+12 patterns
+Filter -
+44 taxa
+13 sites
+12 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1947-1959
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1982-1994
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2054-2066
+44 taxa
+13 sites
+13 patterns
+Filter -
+44 taxa
+13 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 432-445
+44 taxa
+14 sites
+13 patterns
+Filter -
+44 taxa
+14 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 592-605
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 666-679
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 768-781
+44 taxa
+14 sites
+13 patterns
+Filter -
+44 taxa
+14 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 782-795
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1153-1166
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1201-1214
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1318-1331
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1359-1372
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1373-1386
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1559-1572
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1821-1834
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1882-1895
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1960-1973
+44 taxa
+14 sites
+14 patterns
+Filter -
+44 taxa
+14 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 20-34
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 81-95
+44 taxa
+15 sites
+14 patterns
+Filter -
+44 taxa
+15 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 250-264
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 798-812
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1129-1143
+44 taxa
+15 sites
+14 patterns
+Filter -
+44 taxa
+15 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1287-1301
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1439-1453
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1784-1798
+44 taxa
+15 sites
+14 patterns
+Filter -
+44 taxa
+15 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2067-2081
+44 taxa
+15 sites
+14 patterns
+Filter -
+44 taxa
+15 sites
+14 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2128-2142
+44 taxa
+15 sites
+15 patterns
+Filter -
+44 taxa
+15 sites
+15 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2167-2181
+44 taxa
+15 sites
+13 patterns
+Filter -
+44 taxa
+15 sites
+13 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 730-745
+44 taxa
+16 sites
+16 patterns
+Filter -
+44 taxa
+16 sites
+16 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 876-891
+44 taxa
+16 sites
+16 patterns
+Filter -
+44 taxa
+16 sites
+16 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1072-1087
+44 taxa
+16 sites
+16 patterns
+Filter -
+44 taxa
+16 sites
+16 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1302-1317
+44 taxa
+16 sites
+16 patterns
+Filter -
+44 taxa
+16 sites
+16 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1473-1488
+44 taxa
+16 sites
+16 patterns
+Filter -
+44 taxa
+16 sites
+16 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1525-1541
+44 taxa
+17 sites
+17 patterns
+Filter -
+44 taxa
+17 sites
+17 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1542-1558
+44 taxa
+17 sites
+17 patterns
+Filter -
+44 taxa
+17 sites
+17 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1573-1589
+44 taxa
+17 sites
+17 patterns
+Filter -
+44 taxa
+17 sites
+17 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1679-1695
+44 taxa
+17 sites
+17 patterns
+Filter -
+44 taxa
+17 sites
+17 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 96-113
+44 taxa
+18 sites
+18 patterns
+Filter -
+44 taxa
+18 sites
+18 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1507-1524
+44 taxa
+18 sites
+18 patterns
+Filter -
+44 taxa
+18 sites
+18 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1696-1713
+44 taxa
+18 sites
+17 patterns
+Filter -
+44 taxa
+18 sites
+17 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1714-1731
+44 taxa
+18 sites
+18 patterns
+Filter -
+44 taxa
+18 sites
+18 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1-19
+44 taxa
+19 sites
+19 patterns
+Filter -
+44 taxa
+19 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1040-1058
+44 taxa
+19 sites
+19 patterns
+Filter -
+44 taxa
+19 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1264-1282
+44 taxa
+19 sites
+19 patterns
+Filter -
+44 taxa
+19 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1612-1630
+44 taxa
+19 sites
+19 patterns
+Filter -
+44 taxa
+19 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1646-1664
+44 taxa
+19 sites
+19 patterns
+Filter -
+44 taxa
+19 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1925-1943
+44 taxa
+19 sites
+18 patterns
+Filter -
+44 taxa
+19 sites
+18 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 617-636
+44 taxa
+20 sites
+19 patterns
+Filter -
+44 taxa
+20 sites
+19 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 699-718
+44 taxa
+20 sites
+20 patterns
+Filter -
+44 taxa
+20 sites
+20 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2026-2046
+44 taxa
+21 sites
+21 patterns
+Filter -
+44 taxa
+21 sites
+21 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 166-187
+44 taxa
+22 sites
+22 patterns
+Filter -
+44 taxa
+22 sites
+22 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 35-57
+44 taxa
+23 sites
+23 patterns
+Filter -
+44 taxa
+23 sites
+23 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1094-1116
+44 taxa
+23 sites
+23 patterns
+Filter -
+44 taxa
+23 sites
+23 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1902-1924
+44 taxa
+23 sites
+23 patterns
+Filter -
+44 taxa
+23 sites
+23 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 550-573
+44 taxa
+24 sites
+24 patterns
+Filter -
+44 taxa
+24 sites
+24 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 852-875
+44 taxa
+24 sites
+24 patterns
+Filter -
+44 taxa
+24 sites
+24 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2143-2166
+44 taxa
+24 sites
+24 patterns
+Filter -
+44 taxa
+24 sites
+24 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 299-323
+44 taxa
+25 sites
+25 patterns
+Filter -
+44 taxa
+25 sites
+25 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 358-382
+44 taxa
+25 sites
+25 patterns
+Filter -
+44 taxa
+25 sites
+25 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1171-1195
+44 taxa
+25 sites
+25 patterns
+Filter -
+44 taxa
+25 sites
+25 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 2082-2106
+44 taxa
+25 sites
+24 patterns
+Filter -
+44 taxa
+25 sites
+24 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 524-549
+44 taxa
+26 sites
+26 patterns
+Filter -
+44 taxa
+26 sites
+26 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 1227-1253
+44 taxa
+27 sites
+26 patterns
+Filter -
+44 taxa
+27 sites
+26 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+Filter 213-240
+44 taxa
+28 sites
+28 patterns
+Filter -
+44 taxa
+28 sites
+28 patterns
+  Using BEAGLE version: 3.2.0 (PRE-RELEASE) resource 0: CPU
+    with instance flags:  PRECISION_DOUBLE COMPUTATION_SYNCH EIGEN_REAL SCALING_MANUAL SCALERS_RAW VECTOR_SSE THREADING_NONE PROCESSOR_CPU FRAMEWORK_CPU
+===============================================================================
+Citations for this model:
+
+Bouckaert, Remco, Timothy G. Vaughan, Joëlle Barido-Sottani, Sebastián Duchêne, Mathieu Fourment, 
+Alexandra Gavryushkina, Joseph Heled, Graham Jones, Denise Kühnert, Nicola De Maio, Michael Matschiner, 
+Fábio K. Mendes, Nicola F. Müller, Huw A. Ogilvie, Louis du Plessis, Alex Popinga, Andrew Rambaut, 
+David Rasmussen, Igor Siveroni, Marc A. Suchard, Chieh-Hsi Wu, Dong Xie, Chi Zhang, Tanja Stadler, 
+Alexei J. Drummond 
+  BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. 
+  PLoS computational biology 15, no. 4 (2019): e1006650.
+
+Drummond AJ, Ho SYW, Phillips MJ, Rambaut A (2006) Relaxed Phylogenetics and
+  Dating with Confidence. PLoS Biol 4(5): e88
+
+Douglas J, Zhang R, Bouckaert R. Adaptive dating and fast proposals: Revisiting the phylogenetic relaxed clock model. PLoS computational biology. 2021 Feb 2;17(2):e1008322.
+
+Zhang, R., Drummond, A. (2020) Improving the performance of Bayesian phylogenetic inference
+  under relaxed clock models. BMC Evol Biol 20, 54
+
+===============================================================================
+Start likelihood: -79457.98941237332 
+         Sample      posterior ESS(posterior)     likelihood          prior
+              0    -79453.9306              N    -75062.0105     -4391.9200 --
+          10000    -19327.5373         2.0       -19139.2057      -188.3316 --
+          20000    -18571.5978         3.0       -18349.4230      -222.1747 --
+          30000    -18599.9583         4.0       -18213.2821      -386.6762 --
+          40000    -18382.0854         5.0       -17982.2263      -399.8590 --
+          50000    -17951.4408         6.0       -17561.1060      -390.3348 --
+          60000    -17931.8540         7.0       -17549.6526      -382.2013 21m35s/Msamples
+          70000    -17703.3380         8.0       -17301.7156      -401.6224 21m40s/Msamples
+          80000    -17238.1666         9.0       -16848.6267      -389.5398 22m6s/Msamples
+          90000    -16852.6569         3.0       -16474.3468      -378.3100 22m11s/Msamples
+         100000    -16851.4305         2.8       -16473.6403      -377.7902 22m7s/Msamples
+         110000    -16837.9063         2.6       -16430.6239      -407.2824 21m59s/Msamples
+         120000    -16823.4788         2.5       -16442.7509      -380.7278 21m52s/Msamples
+         130000    -16812.1114         2.5       -16434.1457      -377.9657 21m44s/Msamples
+         140000    -16816.0559         2.5       -16435.5034      -380.5524 21m43s/Msamples
+         150000    -16814.6952         2.6       -16432.1584      -382.5367 21m48s/Msamples
+         160000    -16805.1535         2.7       -16442.2118      -362.9417 21m55s/Msamples
+         170000    -16813.7426         2.7       -16439.6550      -374.0875 21m58s/Msamples
+         180000    -16791.7163         2.8       -16424.4856      -367.2306 22m0s/Msamples
+         190000    -16809.0464         3.0       -16433.2535      -375.7928 22m0s/Msamples
+         200000    -16786.5615         3.1       -16431.1102      -355.4513 22m3s/Msamples
+         210000    -16788.4960         3.2       -16428.8588      -359.6371 22m5s/Msamples
+         220000    -16814.6420         3.3       -16429.3589      -385.2831 22m6s/Msamples
+         230000    -16809.2916         3.5       -16433.9035      -375.3880 22m7s/Msamples
+         240000    -16779.2137         3.6       -16427.5427      -351.6710 22m7s/Msamples
+         250000    -16828.3768         3.7       -16436.7449      -391.6319 22m6s/Msamples
+         260000    -16822.3769         3.8       -16452.8427      -369.5342 22m7s/Msamples
+         270000    -16802.9233         4.0       -16436.3892      -366.5341 22m7s/Msamples
+         280000    -16820.5904         4.1       -16443.5621      -377.0282 22m6s/Msamples
+         290000    -16807.4419         4.9       -16439.3806      -368.0613 22m3s/Msamples
+         300000    -16812.3384         5.0       -16443.2066      -369.1318 22m1s/Msamples
+         310000    -16827.8770         5.2       -16431.3157      -396.5612 21m58s/Msamples
+         320000    -16827.8641         5.4       -16443.3439      -384.5202 21m57s/Msamples
+         330000    -16796.3748         5.6       -16424.2691      -372.1056 21m55s/Msamples
+         340000    -16798.0890         5.7       -16429.5693      -368.5196 21m55s/Msamples
+         350000    -16794.9309         5.9       -16423.7427      -371.1881 21m54s/Msamples
+         360000    -16820.0803         6.1       -16433.9286      -386.1516 21m52s/Msamples
+         370000    -16801.5961         6.3       -16429.6052      -371.9908 21m51s/Msamples
+         380000    -16783.7737         6.4       -16417.9204      -365.8532 21m50s/Msamples
