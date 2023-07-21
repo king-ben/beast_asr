@@ -136,6 +136,7 @@ topology_test <- function(sample1, sample2, label1="topology1", label2="topology
   results1 <- results1[which(is.na(support)==F),]
   results2 <- results2[which(is.na(support)==F),]
   results <- rbind(results1, results2)
+  if(nrow(results)==0){print("no cognates are significantly different, try lowering hpd.level")}
   colnames(results) <- c("cognate", "median", "lower", "upper", "topology", "support")
   results <- transform(results, median=as.numeric(median),
                        lower=as.numeric(lower),
