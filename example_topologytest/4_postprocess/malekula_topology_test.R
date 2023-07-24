@@ -12,7 +12,7 @@ tt <- topology_test("../2_unconstrained/site_likelihoods.txt", #path to output t
                     "unconstrained",#label for plot topology 1
                     "constrained",#label for plot topology 2
                     burnin=0.2,#how much burnin to remove
-                    hpd.level = 0.9,#which hpd distribution needs to be not overlapping to consider a cognate significant, lower numbers return more cognates
+                    hpd.level = 1.0,#which hpd distribution needs to be not overlapping to consider a cognate significant, lower numbers return more cognates
                     colors = c("#89a0bf","#87230d")
                     )
 
