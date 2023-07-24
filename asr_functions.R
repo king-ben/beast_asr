@@ -380,3 +380,26 @@ rogueconstraint_XML <- function(name, taxonset, rogues){
   return(dist)
 }
 
+hpd <- function(posterior, p=0.95){
+  unname(sort(posterior)) -> sp
+  round(length(sp)*p) -> n
+  ints <- vector()
+  for(i in 1:ceiling(length(sp)*(1-p))){
+    append(ints, sp[i+(n-1)]-sp[i]) -> ints
+  }
+  c(sp[which(ints == min(ints))], sp[which(ints == min(ints))+(n-1)]) -> ci
+  if(length(ci)>2){
+    list() -> ci2
+    ci[1:(length(ci)/2)] -> mins
+    unique(mins) -> mins
+    ci[(length(ci)/2+1):length(ci)] -> maxs
+    unique(maxs) -> maxs
+    for(i in 1:length(mins)){
+      c(mins[i], maxs[i]) -> ci2[[i]]
+    }
+    return(ci2)
+  }
+  else{
+    return(ci)
+  }
+}
